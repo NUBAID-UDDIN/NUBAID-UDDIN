@@ -13,7 +13,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nubaid-uddin-13ab36327/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CODE-NUBAID)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NUBAID-UDDIN)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/NUBAID_UDDIN/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/buildwithidea021)
 [![Unstop](https://img.shields.io/badge/Unstop-%236C4CF1.svg?style=for-the-badge\&logoColor=white)](https://unstop.com/u/nubaiudd28245)
