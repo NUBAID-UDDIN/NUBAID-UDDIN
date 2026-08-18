@@ -21,7 +21,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NUBAID-UDDIN\&color=58A6FF\&style=for-the-badge\&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/CODE-NUBAID?style=for-the-badge\&color=58A6FF\&labelColor=1a1a2e)
+![GitHub followers](https://img.shields.io/github/followers/NUBAID-UDDIN?style=for-the-badge\&color=58A6FF\&labelColor=1a1a2e)
 
 </div>
 
