@@ -135,7 +135,7 @@ A multi-document RAG app for invoice PDFs with source-grounded answers, exact pa
 
 ### 📈 Store Manager AI — Retail Intelligence Dashboard
 
-[![View Repo](https://img.shields.io/badge/⭐%20View%20Repo-Store%20Manager%20AI-58A6FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CODE-NUBAID/Store-Manager-AI)
+[![View Repo](https://img.shields.io/badge/⭐%20View%20Repo-Store%20Manager%20AI-58A6FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NUBAID-UDDIN/Store-Manager-AI)
 
 A conversational retail forecasting system that replaced a weaker baseline with a feature-engineered XGBoost regressor and a ReAct-style agent interface.
 
