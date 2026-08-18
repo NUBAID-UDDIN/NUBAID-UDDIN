@@ -329,7 +329,7 @@ If you are building agentic AI or RAG systems and want to talk shop — or you a
 
 [![LinkedIn](https://img.shields.io/badge/Message%20on%20LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nubaid-uddin-13ab36327/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore%20my%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CODE-NUBAID)
+[![GitHub](https://img.shields.io/badge/Explore%20my%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NUBAID-UDDIN)
 
 <br/><br/>
 
