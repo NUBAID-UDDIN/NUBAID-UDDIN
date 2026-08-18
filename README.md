@@ -271,7 +271,7 @@ LeetCode & HackerRank<br/>
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CODE-NUBAID\&bg_color=0d1117\&color=58A6FF\&line=58A6FF\&point=ffffff\&area=true\&area_color=1a3a5c\&hide_border=true\&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NUBAID-UDDIN\&bg_color=0d1117\&color=58A6FF\&line=58A6FF\&point=ffffff\&area=true\&area_color=1a3a5c\&hide_border=true\&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
