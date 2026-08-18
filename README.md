@@ -116,7 +116,7 @@ class NUBAID:
 
 ### 🧾 InvoiceAI — Financial Document RAG Assistant
 
-[![View Repo](https://img.shields.io/badge/⭐%20View%20Repo-Financial%20Document%20RAG-58A6FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CODE-NUBAID/Financial-Document-RAG-Assistant)
+[![View Repo](https://img.shields.io/badge/⭐%20View%20Repo-Financial%20Document%20RAG-58A6FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NUBAID-UDDIN/Financial-Document-RAG-Assistant)
 
 A multi-document RAG app for invoice PDFs with source-grounded answers, exact page/file tracing, and a hard refusal when the answer is missing.
 
