@@ -292,7 +292,7 @@ LeetCode & HackerRank<br/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=CODE-NUBAID&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=NUBAID-UDDIN&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 -->
 
 </div>
