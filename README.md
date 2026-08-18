@@ -281,7 +281,7 @@ LeetCode & HackerRank<br/>
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=CODE-NUBAID&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=NUBAID-UDDIN&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
