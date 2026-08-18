@@ -267,7 +267,7 @@ LeetCode & HackerRank<br/>
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=NUBAID-UDDIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-NUBAID&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUBAID-UDDIN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
 
 <br/><br/>
 
