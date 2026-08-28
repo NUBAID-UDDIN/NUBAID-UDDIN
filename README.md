@@ -285,7 +285,7 @@ LeetCode & HackerRank<br/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NUBAID-UDDIN&theme=tokyonight" />
+<!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NUBAID-UDDIN&theme=tokyonight" /> -->
 
 <!--
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NUBAID-UDDIN&theme=tokyonight&utcOffset=5.5" />
