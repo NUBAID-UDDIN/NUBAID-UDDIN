@@ -264,12 +264,11 @@ LeetCode & HackerRank<br/>
 ## 📊 GitHub Pulse
 
 <div align="center">
-
+<!--
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=NUBAID-UDDIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 &nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUBAID-UDDIN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-
-<br/><br/>
+-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NUBAID-UDDIN\&bg_color=0d1117\&color=58A6FF\&line=58A6FF\&point=ffffff\&area=true\&area_color=1a3a5c\&hide_border=true\&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
