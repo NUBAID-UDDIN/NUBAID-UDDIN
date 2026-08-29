@@ -340,7 +340,3 @@ If you are building agentic AI or RAG systems and want to talk shop — or you a
 <!-- Footer wave -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <sub><i>"Measure it or don't claim it."</i> · <i>Built with honesty, evaluated with evidence.</i></sub>
-</div>
