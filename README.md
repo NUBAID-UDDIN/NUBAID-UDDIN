@@ -218,31 +218,45 @@ Remote, India
 
 <table>
 <tr>
-<td align="center" width="25%">
+
+<td align="center" width="33%">
 <b>IIT Guwahati</b><br/>
 Summer Analytics 2026<br/>
 <sub>Certificate of Merit · Top 25%</sub>
 </td>
-<td align="center" width="25%">
+
+<td align="center" width="33%">
 <b>Google × Kaggle</b><br/>
 5-Day AI Agents Intensive<br/>
-<sub>ReAct · orchestration · Gemini</sub>
+<sub>ReAct · Orchestration · Gemini</sub>
 </td>
-<td align="center" width="25%">
+
+<td align="center" width="33%">
 <b>Google Cloud</b><br/>
 Arcade Legend · 85 pts<br/>
 <sub>BigQuery · Kubernetes · GCE</sub>
 </td>
-<td align="center" width="25%">
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
 <b>DSA</b><br/>
-LeetCode & HackerRank<br/>
-<sub>Graphs · DP · Arrays · Strings</sub>
+100+ Problems Solved<br/>
+<sub>LeetCode · HackerRank · Graphs · DP</sub>
 </td>
-<td align="center" width="25%">
+
+<td align="center" width="50%">
 <b>Hackathons</b><br/>
-10+ team challenges<br/>
-<sub>AI · ML · Full-stack</sub>
+10+ Team Challenges<br/>
+<sub>AI · ML · Full-Stack Development</sub>
 </td>
+
 </tr>
 </table>
 
