@@ -152,7 +152,6 @@ A multi-document RAG app for invoice PDFs with source-grounded answers, exact pa
 
 </details>
 
-<br/>
 
 ### 📈 Store Manager AI — Retail Intelligence Dashboard
 
