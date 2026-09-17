@@ -114,6 +114,27 @@ class NUBAID:
 
 ## 🚀 Featured Projects
 
+### 💊 Medizy — AI-Powered Healthcare & Pharmacy Platform
+
+[![View Repo](https://img.shields.io/badge/⭐%20View%20Repo-Medizy-58A6FF?style=for-the-badge&logo=github&logoColor=white)](YOUR_MEDIZY_REPO_URL)
+
+An AI-powered healthcare and pharmacy platform that combines prescription OCR, medicine matching, AI assistance, pharmacy availability, pricing, and location-aware pharmacy discovery.
+
+<details>
+<summary><b>Architecture highlights</b></summary>
+
+* OCR prescription pipeline using OpenCV and Tesseract
+* Image preprocessing with upscaling, CLAHE, adaptive thresholding, morphology, sharpening, and deskewing
+* N-gram candidate generation with RapidFuzz for noisy medicine-name matching
+* MySQL medicine database for structured medicine identification
+* Flask REST backend for prescription upload, validation, OCR, and medicine matching
+* Pharmacy availability and pricing functionality
+* Structured JSON REST responses
+* Qwen2.5-7B / Hugging Face API for AI-assisted conversational functionality
+* Location-aware pharmacy ranking using store coordinates and Haversine distance
+
+</details>
+
 ### 🧾 InvoiceAI — Financial Document RAG Assistant
 
 [![View Repo](https://img.shields.io/badge/⭐%20View%20Repo-Financial%20Document%20RAG-58A6FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NUBAID-UDDIN/Financial-Document-RAG-Assistant)
