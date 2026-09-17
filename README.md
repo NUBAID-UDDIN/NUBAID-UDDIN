@@ -116,7 +116,7 @@ class NUBAID:
 
 ### 💊 Medizy — AI-Powered Healthcare & Pharmacy Platform
 
-[![View Repo](https://img.shields.io/badge/⭐%20View%20Repo-Medizy-58A6FF?style=for-the-badge&logo=github&logoColor=white)](YOUR_MEDIZY_REPO_URL)
+[![View Repo](https://img.shields.io/badge/⭐%20View%20Repo-Medizy-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asjad-ux/medizy)
 
 An AI-powered healthcare and pharmacy platform that combines prescription OCR, medicine matching, AI assistance, pharmacy availability, pricing, and location-aware pharmacy discovery.
 
